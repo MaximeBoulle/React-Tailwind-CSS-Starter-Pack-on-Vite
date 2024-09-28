@@ -11,7 +11,7 @@ git clone https://github.com/MaximeBoulle/React-Tailwind-CSS-Starter-Pack-on-Vit
 2. Install the required packages.
 
 ```bash
-cd app
+cd React-Tailwind-CSS-Starter-Pack-on-Vite
 npm install
 ```
 3. Start the development server.
